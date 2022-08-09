@@ -1,9 +1,6 @@
 {
-  "name":"Exemplo 01",
+  "name": "Getting Started Example",
+  "description": "Build an Extension!",
   "version": "1.0",
-  "description":"Primeiro exemplo de extenção google Chrome",
-  "browser_action":{
-    "default_popup": "index.html"
-  },
-  "manifest_version":2
+  "manifest_version": 3
 }
